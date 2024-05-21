@@ -1,0 +1,1 @@
+Moja praktická časť zahŕňa vizualizáciu, predspracovanie, modelovanie a výber hyperparametrov. Predspracovanie možno nájsť pod názvami rabota1/rabota2. Modelovanie pod názvami modelovanie 1/ modelovanie.Výber hyperparametrov - OPTUNA
